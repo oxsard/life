@@ -1,0 +1,9 @@
+#+READONLY
+#+TODO: TODO STARTED | DONE
+#+READONLY
+#+TODO: WAITING SOMEDAY PROJECT | CANCELLED
+#+TAGS: 郑小姐
+#+DRAWERS: PROPERTIES CLOCK LOGBOOK RESULTS
+#+ALLPRIORITIES: A B C
+* [[file:agendas.org][Agenda Views]]
+* [[file:org/plan.org][org/plan.org]]

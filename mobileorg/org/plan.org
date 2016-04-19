@@ -1,10 +1,8 @@
-#+LAST_MOBILE_CHANGE: 2016-04-19 16:14:24
+#+LAST_MOBILE_CHANGE: 2016-04-19 16:05:34
 * 每日安排
-** TODO [#A] 给郑小姐早安 <2016-04-21 Thu +1d>                                  :郑小姐:
-   - State "DONE"       from "TODO"       [2016-04-19 Tue 16:14]
+** TODO [#A] 给郑小姐早安 <2016-04-19 Tue +1d>                                  :郑小姐:
    :PROPERTIES:
    :ID:       1489b40c-8c3c-4efd-a441-66aef35b1141
-   :LAST_REPEAT: [2016-04-19 Tue 16:14]
    :END:
 ** TODO 晨跑 <2016-04-21 Thu +1d>
    - State "DONE"       from "TODO"       [2016-04-19 Tue 11:32]

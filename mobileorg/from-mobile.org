@@ -1,0 +1,32 @@
+
+
+* Body was changed in MobileOrg and on the computer F(edit:body) [[id:200ec397-9460-49dd-ba03-8f8c7051cc27][读书]]
+** Old value
+:PROPERTIES:
+   :ID: 200ec397-9460-49dd-ba03-8f8c7051cc27
+   :END:
+** New value
+:PROPERTIES:
+   :ID: 200ec397-9460-49dd-ba03-8f8c7051cc27
+   :END:
+读 期货市场的技术分析
+** End of edit
+
+
+
+* Body was changed in MobileOrg and on the computer F(edit:body) [[id:2aa64adc-ad63-483c-a612-82f25a3c0423][读英语]]
+** Old value
+- State "DONE"       from "TODO"       [2016-04-19 Tue 15:56]
+   :PROPERTIES:
+   :ID: 2aa64adc-ad63-483c-a612-82f25a3c0423
+   :END:
+** New value
+- State "DONE"       from "TODO"       [2016-04-19 Tue 15:56]
+   :PROPERTIES:
+   :ID: 2aa64adc-ad63-483c-a612-82f25a3c0423
+   :END:
+今天天气这么好
+** End of edit
+
+
+
